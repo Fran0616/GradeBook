@@ -45,7 +45,7 @@ Create a new variable full_gradebook that combines both last_semester_gradebook 
 Print full_gradebook to see our completed list.
 
 
-Code
+[Code](https://github.com/Fran0616/GradeBook/blob/main/gradebookscript.py)
 =
 ```
 last_semester_gradebook = [["politics", 80], ["latin", 96], ["dance", 97], ["architecture", 65]]
